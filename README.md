@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Misagh021kid
-- 👀 I’m interested in MineCraft
-- 🌱 I’m currently learning Phyton
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+🖐️ سلام! خوش اومدی
+من میثاق ام، یه توسعه‌دهنده‌ی علاقه‌مند به دنیای برنامه‌نویسی و تکنولوژی.
 
-<!---
-Misagh021kid/Misagh021kid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 مهارت‌ها
+زبان‌ها: Python, JavaScript, Java
+تکنولوژی‌ها: Node.js, React, Spigot API
+ابزارها: Git, Docker, Linux
+📌 پروژه‌های من
+🔹 پروژه پلاگین وانتد - پلاگین وانتد پلاگینی برای سرور های جی تی ای ماینکرفت است
+🔹 پروژه فونیکس پروکسی - فونیکس پروکسی یک پروکسی برای وصل کردن سرور های ماینکرفت به هم دیگه است (فورک شده Velocity با اجرای Copy Right)
+
+📫 ارتباط با من
+ایمیل: MisaghAlivi@gmail.com
+دیسکورد: f35j#0000
